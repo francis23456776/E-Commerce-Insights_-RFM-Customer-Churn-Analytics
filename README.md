@@ -240,8 +240,8 @@ Headline KPIs, insight cards generated straight from the data, and switchable re
 <br>
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ecommerce-customer-analytics.git
-cd ecommerce-customer-analytics
+git clone https://github.com/francis23456776/E-Commerce-Insights_-RFM-Customer-Churn-Analytics.git
+
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
