@@ -288,14 +288,6 @@ jupyter notebook E-commerce_churn_analysis.ipynb
 | 🔁 Month-1 → Month-6 retention | _X%_ → _X%_ |
 | 📅 Peak revenue month | _month_ |
 
-### What I'd do next if this were a real store
-
-- Protect **Champions** and **Loyal Customers** first; they carry the most revenue.
-- Launch a win-back campaign for **At Risk** and **Cannot Lose Them** customers.
-- Fix the **first 1–3 months** after purchase, where cohorts lose the most customers.
-- Schedule promotions ahead of the seasonal peak.
-
----
 
 
 **Built by [Antony Jeba Francis]** · [LinkedIn](https://www.linkedin.com/in/antony-jeba-francis-s-720821256) · [GitHub](https://github.com/francis23456776)
