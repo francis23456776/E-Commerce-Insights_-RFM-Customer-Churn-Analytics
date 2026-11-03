@@ -244,7 +244,7 @@ git clone https://github.com/francis23456776/E-Commerce-Insights_-RFM-Customer-C
 
 
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+source venv/bin/activate       
 pip install -r requirements.txt
 
 jupyter notebook E-commerce_churn_analysis.ipynb
@@ -270,7 +270,7 @@ jupyter notebook E-commerce_churn_analysis.ipynb
 ├── interactive_rfm_analysis.py
 ├── interactive_cohort_analysis.py
 ├── requirements.txt
-└── data/                 # dataset goes here (not tracked)
+└── data/                
 ```
 
 </details>
