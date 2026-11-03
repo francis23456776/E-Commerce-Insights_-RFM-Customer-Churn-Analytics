@@ -252,8 +252,8 @@ jupyter notebook E-commerce_churn_analysis.ipynb
 
 1. Place the dataset CSV in `data/` and update the path in the notebook.
 2. Run the cells that load and clean the data (the result is stored in `df`).
-3. Run any `interactive_*.py` file as a notebook cell.
-4. Open the saved `.html` files in a browser.
+3. Run any E-commerce_churn_analysis.ipynb file as a notebook cell.
+
 
 </details>
 
@@ -262,20 +262,6 @@ jupyter notebook E-commerce_churn_analysis.ipynb
 
 <br>
 
-```
-
----
-
-## 🔎 Findings
-
-<!-- Run the notebook, then replace these with your real numbers. -->
-
-| Metric | Result |
-|---|---|
-| 💷 Revenue from top market | _X%_ (_country_) |
-| 👑 Champions share of customers → revenue | _X%_ → _X%_ |
-| 🔁 Month-1 → Month-6 retention | _X%_ → _X%_ |
-| 📅 Peak revenue month | _month_ |
 
 
 
