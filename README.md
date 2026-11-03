@@ -257,11 +257,6 @@ jupyter notebook E-commerce_churn_analysis.ipynb
 
 </details>
 
-<details>
-<summary><b>Repository layout (click to expand)</b></summary>
-
-<br>
-
 
 
 
