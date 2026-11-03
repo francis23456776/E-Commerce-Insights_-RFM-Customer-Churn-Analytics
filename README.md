@@ -111,7 +111,7 @@ The result is a cohort × month matrix, explored as a heatmap you can switch bet
 
 ---
 
-## 🧑‍🤝‍🧑 Meet your customers
+## 🧑‍🤝‍🧑 Meet our customers
 
 Ten personas, one per RFM segment. Expand a card to see who they are and what to do about them.
 
