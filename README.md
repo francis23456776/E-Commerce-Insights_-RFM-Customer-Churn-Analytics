@@ -263,17 +263,6 @@ jupyter notebook E-commerce_churn_analysis.ipynb
 <br>
 
 ```
-.
-├── E-commerce_churn_analysis.ipynb
-├── interactive_results_dashboard.py
-├── interactive_ecommerce_bi_dashboard.py
-├── interactive_rfm_analysis.py
-├── interactive_cohort_analysis.py
-├── requirements.txt
-└── data/                
-```
-
-</details>
 
 ---
 
